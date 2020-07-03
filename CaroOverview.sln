@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaroOverview", "CaroOverview\CaroOverview.csproj", "{B1FA5A42-A435-4847-B4C3-D5C306592C8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{723140BA-5F51-4A37-B365-4B6037A51DE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B1FA5A42-A435-4847-B4C3-D5C306592C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1FA5A42-A435-4847-B4C3-D5C306592C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1FA5A42-A435-4847-B4C3-D5C306592C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723140BA-5F51-4A37-B365-4B6037A51DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723140BA-5F51-4A37-B365-4B6037A51DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723140BA-5F51-4A37-B365-4B6037A51DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723140BA-5F51-4A37-B365-4B6037A51DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
